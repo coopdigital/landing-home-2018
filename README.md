@@ -1,4 +1,4 @@
-# Co-op starter kit
+# Landing pages for recruitment to trial [Home 2018](https://github.com/coopdigital/home-2018)
 
 ## How to use this
 
